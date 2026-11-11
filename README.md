@@ -2,7 +2,7 @@
 
 **I build in-house ERP systems for manufacturing companies, from the factory floor to payroll.**
 
-Business Intelligence Manager at **Eureka Windoor Systems** (EUMAX and WINDIA uPVC profiles; plants in Bengaluru, Ghaziabad and Hyderabad). I own product and technical direction for the company's custom ERP, built module by module and running live in production.
+Business Intelligence Manager at **Eureka Windoor Systems**. I own product and technical direction for the company's custom ERP, built module by module and running live in production.
 
 > My production work lives in private company repositories. This page describes what those systems do and how they are built. No proprietary code is shared here.
 
